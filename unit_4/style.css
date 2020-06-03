@@ -1,15 +1,15 @@
-#header {
-	background-color:#FFED74;
+header {
+	background-color: #FFED74;
 	text-align: left;
 }
-#nav {
-	background-color:#E8C66A;
+nav {
+	background-color: #E8C66A;
 	text-align: center;
 }
-#footer {
-	background-color:#FF957E
+footer {
+	background-color: #FF957E
 }
-#div {
-	background-color:#FFE2B8;
+div {
+	background-color: #FFE2B8;
 	text-align: center;
 }
