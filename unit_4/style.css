@@ -1,16 +1,15 @@
-style.css
-header {
+#header {
 	background-color:#FFED74;
 	text-align: left;
 }
-nav {
+#nav {
 	background-color:#E8C66A;
 	text-align: center;
 }
-footer {
+#footer {
 	background-color:#FF957E
 }
-div {
+#div {
 	background-color:#FFE2B8;
 	text-align: center;
 }
